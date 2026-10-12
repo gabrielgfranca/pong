@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bfxwo4nbfmsx2"
+path="res://.godot/imported/Som da bola 3.wav-982573210ee58f275f5ac94f0f60e0cf.sample"
+
+[deps]
+
+source_file="res://assets/Sons alternativos para o jogo (esses são bons)/Som da bola 3.wav"
+dest_files=["res://.godot/imported/Som da bola 3.wav-982573210ee58f275f5ac94f0f60e0cf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

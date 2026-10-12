@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5dtxbnwxnbwf"
+path="res://.godot/imported/Musica de fundo.ogg-53cf101e57c2f7fa2c0ed3a6daa90bf5.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/Sons alternativos para o jogo (esses são bons)/Musica de fundo.ogg"
+dest_files=["res://.godot/imported/Musica de fundo.ogg-53cf101e57c2f7fa2c0ed3a6daa90bf5.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
