@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://bw265bfvltge1" path="res://assets/fundo.png" id="1_o5qli"]
 [ext_resource type="PackedScene" uid="uid://qet1tfjqc86l" path="res://scenes/player.tscn" id="2_0wfyh"]
+[ext_resource type="PackedScene" uid="uid://bkgsgplmdrdk4" path="res://scenes/ball.tscn" id="3_sugp2"]
 
 [node name="Level" type="Node2D" unique_id=909149155]
 
@@ -15,3 +16,6 @@ player_one = true
 
 [node name="Player2" parent="." unique_id=1619465943 instance=ExtResource("2_0wfyh")]
 position = Vector2(575, 180)
+
+[node name="Ball" parent="." unique_id=655152116 instance=ExtResource("3_sugp2")]
+position = Vector2(320, 180)
